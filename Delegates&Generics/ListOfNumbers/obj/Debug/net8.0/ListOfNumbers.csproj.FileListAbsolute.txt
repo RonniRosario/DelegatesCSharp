@@ -1,0 +1,15 @@
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\bin\Debug\net8.0\ListOfNumbers.exe
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\bin\Debug\net8.0\ListOfNumbers.deps.json
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\bin\Debug\net8.0\ListOfNumbers.runtimeconfig.json
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\bin\Debug\net8.0\ListOfNumbers.dll
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\bin\Debug\net8.0\ListOfNumbers.pdb
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.AssemblyInfoInputs.cache
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.AssemblyInfo.cs
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.sourcelink.json
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.dll
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\refint\ListOfNumbers.dll
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.pdb
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ListOfNumbers.genruntimeconfig.cache
+C:\Users\ronni\Source\Repos\DelegatesCSharp\Delegates&Generics\ListOfNumbers\obj\Debug\net8.0\ref\ListOfNumbers.dll
